@@ -1,6 +1,7 @@
 {
-	"name": "unc",
-	"short_name": "unc",
+	"name": "Runscore",
+	"short_name": "Runscore",
+	"description": "Transform running data into competitive ratings",
 	"icons": [
 		{
 			"src": "/web-app-manifest-192x192.png",
@@ -15,5 +16,7 @@
 			"purpose": "maskable"
 		}
 	],
-	"display": "standalone"
+	"display": "standalone",
+	"theme_color": "#1A1A1A",
+	"background_color": "#ffffff"
 }
