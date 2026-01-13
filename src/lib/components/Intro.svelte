@@ -6,7 +6,7 @@
     <div class="absolute inset-y-0 left-1/2 w-px bg-gray-100 hidden md:block"></div>
 
     <h2 class="relative z-10 text-3xl md:text-5xl font-bold uppercase text-center tracking-tight leading-tight max-w-2xl text-black">
-      Transforming<br />Spaces<br />Into Stories
+      Building<br />Digital Toys<br />For Global Culture
     </h2>
   </div>
 </section>
